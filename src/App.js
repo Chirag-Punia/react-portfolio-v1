@@ -7,6 +7,7 @@ import Projects from "./projects/Projects";
 import Contact from "./contact/Contact";
 import Background from './background/Background';
 import PlayerStats from './playerstats/playerStats';
+import "./styles/app.css"
 
 const App = () => {
   return (

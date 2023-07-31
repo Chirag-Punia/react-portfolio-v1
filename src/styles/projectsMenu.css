@@ -55,6 +55,7 @@
   .project-sub-container h3 {
     position: relative;
     margin: 0;
+    color : white;
   }
   .project-sub-container img {
     width: 100%;
@@ -64,6 +65,7 @@
   }
   .project-sub-container p {
     font-size: 0.875rem;
+    color : white;
   }
   
   .link-container a {

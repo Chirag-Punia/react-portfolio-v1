@@ -1,15 +1,12 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import ProjectsMenu from "./ProjectsMenu";
 
-
-export default class  Projects extends Component {
+export default class Projects extends Component {
   render() {
     return (
-      <div>Projects</div>
-    )
+      <>
+        <ProjectsMenu />
+      </>
+    );
   }
 }
-
-const mapStateToProps = (state) => ({})
-
-const mapDispatchToProps = {}
-
